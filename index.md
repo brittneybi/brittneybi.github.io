@@ -15,7 +15,8 @@ Welcome! Explore a curated set of Power BI projects with sample data.
     <div class="body">
       <h3>Retail Sales Insights</h3>
       <p>Sample project with documentation, scripts, and visuals.</p>
-      https://github.com/brittneybi/pbi-retail-sales-sampleView Repo</a>
+      <p>https://github.com/brittneybi/pbi-retail-sales-sampleView</p> 
+      Repo</a>
     </div>
   </div>
 
@@ -24,7 +25,8 @@ Welcome! Explore a curated set of Power BI projects with sample data.
     <div class="body">
       <h3>Customer Churn Explorer</h3>
       <p>Sample project with documentation, scripts, and visuals.</p>
-      https://github.com/brittneybi/pbi-customer-churn-sampleView Repo</a>
+      <p>https://github.com/brittneybi/pbi-customer-churn-sampleView</p> 
+        Repo</a>
     </div>
   </div>
 
@@ -33,7 +35,8 @@ Welcome! Explore a curated set of Power BI projects with sample data.
     <div class="body">
       <h3>Marketing Attribution (Heuristics)</h3>
       <p>Sample project with documentation, scripts, and visuals.</p>
-      https://github.com/brittneybi/pbi-marketing-attribution-sampleView Repo</a>
+      <p>https://github.com/brittneybi/pbi-marketing-attribution-sampleView</p> 
+        Repo</a>
     </div>
   </div>
 
@@ -42,7 +45,8 @@ Welcome! Explore a curated set of Power BI projects with sample data.
     <div class="body">
       <h3>Supply Chain OTIF</h3>
       <p>Sample project with documentation, scripts, and visuals.</p>
-      https://github.com/brittneybi/pbi-otif-supplychain-sampleView Repo</a>
+      <p>https://github.com/brittneybi/pbi-otif-supplychain-sampleView</p> 
+        Repo</a>
     </div>
   </div>
 
@@ -51,7 +55,8 @@ Welcome! Explore a curated set of Power BI projects with sample data.
     <div class="body">
       <h3>Finance P&amp;L Template</h3>
       <p>Sample project with documentation, scripts, and visuals.</p>
-      https://github.com/brittneybi/pbi-pl-template-sampleView Repo</a>
+      <p>https://github.com/brittneybi/pbi-pl-template-sampleView</p> 
+        Repo</a>
     </div>
   </div>
 </div>
