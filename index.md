@@ -16,7 +16,9 @@ Welcome! Explore a curated set of Power BI projects with sample data.
       src="https://raw.githubusercontent.com/brittneybi/pbi-HR-workforce-analytics-sample/main/documentation/Page1-EXECUTIVE.png"
       alt="HR Workforce &amp; Compensation Analytics — Executive page"
       loading="lazy"
-      .img-full { width: 100%; height: auto; display: block; } 
+      width=100%
+       height= auto
+        display= block
     />
           https://github.com/brittneybi/pbi-HR-workforce-analytics-sample</a>
     </div>
