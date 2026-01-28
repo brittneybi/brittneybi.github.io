@@ -3,60 +3,21 @@ title: Brittney Workman — BI Portfolio
 layout: none
 ---
 
-assets/styles.css
-
-# BI Portfolio
+# Brittney Workman — Power BI Portfolio
 
 Welcome! Explore a curated set of Power BI projects with sample data.
 
 <div class="grid">
-  <div class="card">
-    assets/screenshots/pbi-retail-sales-sample.png
     <div class="body">
-      <h3>Retail Sales Insights</h3>
-      <p>Sample project with documentation, scripts, and visuals.</p>
-      <p>https://github.com/brittneybi/pbi-retail-sales-sampleView</p> 
-      Repo</a>
+      <h3>1. HR Workforce &amp; Compensation Analytics</h3>
+      <p>Power BI sample project with .pbix report file, documentation, scripts, and visuals.</p>
+        <a class="card" href="https://github.com/brittneybi/pbi-HR-workforce-analytics-sample" target="_blank" rel="noopener">
+    <img
+      src="https://raw.githubusercontent.com/brittneybi/pbi-HR-workforce-analytics-sample/main/documentation/Page1-EXECUTIVE.png"
+      alt="HR Workforce &amp; Compensation Analytics — Executive page"
+      loading="lazy"
+    />
+          https://github.com/brittneybi/pbi-HR-workforce-analytics-sample</a>
     </div>
-  </div>
-
-  <div class="card">
-    assets/screenshots/pbi-customer-churn-sample.png
-    <div class="body">
-      <h3>Customer Churn Explorer</h3>
-      <p>Sample project with documentation, scripts, and visuals.</p>
-      <p>https://github.com/brittneybi/pbi-customer-churn-sampleView</p> 
-        Repo</a>
-    </div>
-  </div>
-
-  <div class="card">
-    assets/screenshots/pbi-marketing-attribution-sample.png
-    <div class="body">
-      <h3>Marketing Attribution (Heuristics)</h3>
-      <p>Sample project with documentation, scripts, and visuals.</p>
-      <p>https://github.com/brittneybi/pbi-marketing-attribution-sampleView</p> 
-        Repo</a>
-    </div>
-  </div>
-
-  <div class="card">
-    assets/screenshots/pbi-otif-supplychain-sample.png
-    <div class="body">
-      <h3>Supply Chain OTIF</h3>
-      <p>Sample project with documentation, scripts, and visuals.</p>
-      <p>https://github.com/brittneybi/pbi-otif-supplychain-sampleView</p> 
-        Repo</a>
-    </div>
-  </div>
-
-  <div class="card">
-    assets/screenshots/pbi-pl-template-sample.png
-    <div class="body">
-      <h3>Finance P&amp;L Template</h3>
-      <p>Sample project with documentation, scripts, and visuals.</p>
-      <p>https://github.com/brittneybi/pbi-pl-template-sampleView</p> 
-        Repo</a>
-    </div>
-  </div>
+  </a>
 </div>
