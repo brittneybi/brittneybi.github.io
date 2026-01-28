@@ -19,5 +19,4 @@ Welcome! Explore a curated set of Power BI projects with sample data.
 />
           https://github.com/brittneybi/pbi-HR-workforce-analytics-sample</a>
     </div>
-  </a>
 </div>
