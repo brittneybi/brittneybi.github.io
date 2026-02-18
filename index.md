@@ -92,6 +92,5 @@ This report analyzes employee timeclock activity, worked hours, and payroll cost
     alt="data model"
     loading="lazy"
 />
-    </div>
   </a>
 </div>
