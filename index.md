@@ -7,7 +7,7 @@ layout: none
 
 Hi! I’m **Brittney**, a Business Intelligence Analyst focused on turning data into actionable insight using **Power BI**, **DAX**, **Power Query**, **SQL**, **Python**, and **R**.
 
-This portfolio highlights sample projects (with **sample/synthetic datasets only**) to showcase modeling, DAX patterns, visual design, storytelling, and scripting for data prep and automation.
+This portfolio highlights sample projects (with **synthetic datasets**) to showcase modeling, DAX patterns, visual design, and scripting.
 
 ---
 
@@ -63,7 +63,6 @@ A focused Power BI report for analyzing workforce composition and compensation.
     alt="HR Workforce &amp; Compensation Analytics — Data Model"
     loading="lazy"
 />
-    </a>
         
 <h3>2. Timeclock &amp; Employee Payroll Report</h3>
 This report analyzes employee timeclock activity, worked hours, and payroll cost at both a summary and employee‑level granularity.
@@ -93,7 +92,6 @@ This report analyzes employee timeclock activity, worked hours, and payroll cost
     alt="data model"
     loading="lazy"
 />
-    </a>
     </div>
   </a>
 </div>
